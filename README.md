@@ -1,4 +1,4 @@
-# PRism 🔍
+# PRism
 
 > PRism is an AI-powered code review tool that analyzes pull request diffs and delivers context-aware feedback — starting as a lightweight GitHub bot and scaling into a full web dashboard for larger repos.
 
@@ -14,12 +14,12 @@ PRism goes beyond surface-level diff scanning — it builds context around your 
 
 ## Features
 
-- 🤖 **GitHub Bot** — Install on any repo and get automatic AI reviews on every pull request
-- 💬 **Hybrid Feedback Model** — A top-level PR summary + selective inline comments + a formal review verdict (`APPROVE` / `REQUEST_CHANGES` / `COMMENT`)
-- 🧠 **Context-Aware Reviews** — Fetches surrounding code, not just the diff, for smarter LLM analysis
-- 🔍 **Diff Parser** — Breaks diffs into meaningful chunks by file and hunk for precise feedback
-- 📊 **Web Dashboard** *(Phase 2)* — Paste a PR link, sign in with GitHub, and get a beautiful file-by-file breakdown of the review
-- 📁 **Review History** *(Phase 2)* — Track feedback trends across PRs and codebases over time
+- **GitHub Bot** — Install on any repo and get automatic AI reviews on every pull request
+- **Hybrid Feedback Model** — A top-level PR summary + selective inline comments + a formal review verdict (`APPROVE` / `REQUEST_CHANGES` / `COMMENT`)
+- **Context-Aware Reviews** — Fetches surrounding code, not just the diff, for smarter LLM analysis
+- **Diff Parser** — Breaks diffs into meaningful chunks by file and hunk for precise feedback
+- **Web Dashboard** *(Phase 2)* — Paste a PR link, sign in with GitHub, and get a beautiful file-by-file breakdown of the review
+- **Review History** *(Phase 2)* — Track feedback trends across PRs and codebases over time
 
 ---
 
@@ -86,7 +86,7 @@ PRism/
 
 ## Getting Started
 
-> 🚧 PRism is currently in active development. Installation instructions will be available with the Phase 1 release.
+> PRism is currently in active development. Installation instructions will be available with the Phase 1 release.
 
 ---
 
@@ -95,7 +95,3 @@ PRism/
 PRism is open source and contributions are welcome. Feel free to open issues, suggest features, or submit pull requests.
 
 ---
-
-## License
-
-MIT © [Tioluwani Enoch](https://github.com/tioluwani-enoch)
